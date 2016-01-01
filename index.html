@@ -10,7 +10,7 @@ layout: default
         <h3>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h3>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}. {% if post.categories.first != null %}Posted in: {% for category in post.categories %}<a href="{{ site.baseurl }}/categories.html#{{ category }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}</span>
         <hr id="line">
 		<div class="content">
 		{{ post.excerpt }}
