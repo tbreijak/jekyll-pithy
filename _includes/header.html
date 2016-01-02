@@ -7,49 +7,28 @@
 				</li>
 			</span>
 			{% if page.path == "index.html" %}
+			<span class="title"><li>
+				<a href="{{ site.baseurl }}/index.html">blog</a>
+			</li></span>
+			{% else %}
+			<li>
+				<a href="{{ site.baseurl }}/index.html">blog</a>
+			</li>
+			{% endif %}
+			{% for thepage in site.pages %}{% if thepage.title %}
+			{% if thepage.title == page.title %}
 			<span class="title">
 				<li>
-					<a href="/index.html">home</a>
+					<a href="{{ thepage.url | prepend: site.baseurl }}">{{ thepage.title }}</a>
 				</li>
 			</span>
 			{% else %}
-				<li>
-					<a href="/index.html">home</a>
-				</li>
+			<li>
+				<a href="{{ thepage.url | prepend: site.baseurl }}">{{ thepage.title }}</a>
+			</li>
 			{% endif %}
-			{% if page.path == "archive.html" %}
-			<span class="title">
-				<li>
-					<a href="/archive.html">archive</a>
-				</li>
-			</span>
-			{% else %}
-				<li>
-					<a href="/archive.html">archive</a>
-				</li>
 			{% endif %}
-			{% if page.path == "category.html" %}
-			<span class="title">
-				<li>
-					<a href="/categories.html">categories</a>
-				</li>
-			</span>
-			{% else %}
-				<li>
-					<a href="/categories.html">categories</a>
-				</li>
-			{% endif %}
-			{% if page.path == "about.html" %}
-			<span class="title">
-				<li>
-					<a href="/about/">about</a>
-				</li>
-			</span>
-			{% else %}
-				<li>
-					<a href="/about/">about</a>
-				</li>
-			{% endif %}
+			{% endfor %}
 		</div>
 		<div class="description"> {{ site.motto }} </div>
 		<ul class="social-links">
