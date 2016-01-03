@@ -13,7 +13,7 @@ Each post gets "front matter," or the metadata you see at the top of the post se
 
 After the front matter, simply write your content in markdown. Save the file, commit the change in GitHub Desktop, and sync the repository. And presto! Your new post is live on GitHub pages.
 
-#### Markdown Basics
+### Markdown Basics
 
 Markdown is dead simple, even if it's not quite WYSIWYG. It's plaintext, and most of its formatting is specified by including a few special characters. **\*\*Bold\*\*** and *\*italic\** get one and two asterisks, respectively. Code is enclosed by three back tick marks: \`\`\````code```\`\`\`. (If you'd like your code to include syntax highlighting, you should instead enclose it in slightly fancier tags, like so:
 
