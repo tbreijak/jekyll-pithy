@@ -1,16 +1,17 @@
+########################### EDIT YOUR SETTINGS HERE
 # Site settings
-title: Your awesome title # give your site a title
-motto: Your motto # write a little motto
-email: your-email@domain.com # change to your email address
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl:  # the subpath of your site, e.g. /blog/; probably leave this blank
-url: http://username.github.io # change username to your github username
-twitter_username: jekyllrb # if you have a twitter feed, you can link to it here, otherwise delete this line
-github_username:  jekyll # change to your github username
+title: Pithy # give your site a title
+motto: A pithy motto. # give your site a motto
+email: you@example.com # put your email address in here; optional
+# edit your site description; keep it brief
+description: > # this just means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here.
+baseurl:  # the subpath of your site, e.g. /blog/; if unsure, leave this blank
+url: http://[username].github.io # replace [username] with your github username (no brackets)
+github_username: github_username # replace with your github username
+twitter_username: twitter_username
 
+########################## DO NOT EDIT BELOW HERE UNLESS YOU'RE STOKED TO HACK
 # Build settings
 markdown: kramdown
 
