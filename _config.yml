@@ -6,8 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/; probably leave this blank
-url: "http://username.github.io" # change username to your github username
+baseurl:  # the subpath of your site, e.g. /blog/; probably leave this blank
+url: http://username.github.io # change username to your github username
 twitter_username: jekyllrb # if you have a twitter feed, you can link to it here, otherwise delete this line
 github_username:  jekyll # change to your github username
 
@@ -16,3 +16,5 @@ markdown: kramdown
 
 kramdown:
   input: GFM
+
+permalink: /blog/:year-:month-:day/:title.html
