@@ -19,3 +19,6 @@ kramdown:
   input: GFM
 
 permalink: /blog/:year-:month-:day/:title.html
+
+highlighter: pygments # for github deploy
+# highlighter: rouge # for local testing
