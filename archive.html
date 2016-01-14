@@ -1,10 +1,9 @@
 ---
 layout: page
-title: archive
+title: Archive
 permalink: /archive/
 ---
 
-<div class="well">
 {%for post in site.posts %}
     {% unless post.next %}
         <h2>{{ post.date | date: '%Y' }}</h2>
@@ -21,4 +20,3 @@ permalink: /archive/
     <li><span>{{ post.date | date: "%b %d" }}</span>» <a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
-</div>
