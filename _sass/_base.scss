@@ -124,7 +124,8 @@ blockquote {
 
 /**
  * Code formatting
- */
+
+OLD FORMATTING
 pre,
 code {
     font-size: 15px;
@@ -147,7 +148,33 @@ pre {
         padding-left: 0;
     }
 }
+*/
 
+code {
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+  font-size: .8rem;
+}
+
+p code {
+  padding: 0px 5px;
+  border: 1px solid #ddd;
+  background-color: $grey-color-light;
+  border-radius: 1px;
+  white-space: nowrap;
+}
+
+.highlight {
+  padding: 30px;
+  border-radius: 3px;
+  border: 1px solid $grey-color-light;
+  background-color: #fff;
+  color: $grey-color-dark;
+  line-height: 1;
+
+  code {
+    font-size: .9rem;
+  }
+}
 
 
 /**
