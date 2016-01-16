@@ -1,12 +1,10 @@
 ########################### EDIT YOUR SETTINGS HERE
 # Site settings
-title: Pithy # give your site a title
-motto: A pithy motto. # give your site a motto
-email: you@example.com # put your email address in here; optional
+title: "Pithy" # give your site a title
+motto: "A pithy motto." # give your site a motto
+email: "you@example.com" # put your email address in here; optional
 # edit your site description; keep it brief
-description: > # this just means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here.
-baseurl:  # the subpath of your site, e.g. /blog/; if unsure, leave this blank
+description: "Write an awesome description for your new site here."
 url: http://[username].github.io # replace [username] with your github username (no brackets)
 github_username: github_username # replace with your github username
 twitter_username: twitter_username
