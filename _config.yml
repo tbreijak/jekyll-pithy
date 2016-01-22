@@ -6,8 +6,8 @@ email: ab6131@wayne.edu # put your email address in here; optional
 # edit your site description; keep it brief
 description: "A Blog Largely About Things that I Don't Understand"
 url: http://tbreijak.github.io # replace [username] with your github username (no brackets)
-github_username: github_tbreijak # replace with your github username
-twitter_username: twitter_tbreijak
+github_username: tbreijak # replace with your github username
+twitter_username: tbreijak
 
 ########################## DO NOT EDIT BELOW HERE UNLESS YOU'RE STOKED TO HACK
 # Build settings
