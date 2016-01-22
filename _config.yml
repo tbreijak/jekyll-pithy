@@ -1,15 +1,14 @@
 ########################### EDIT YOUR SETTINGS HERE
 # Site settings
-title: The ToddBlog
-motto: Hey, put that down, Brian # give your site a motto
+
+title: The ToddBlog # give your site a title
+motto: Hey, put that down, Brian! # give your site a motto
 email: ab6131@wayne.edu # put your email address in here; optional
 # edit your site description; keep it brief
-description: > # this just means to ignore newlines until "baseurl:"
-  A blog largely about things I don't understand.
-baseurl:  # the subpath of your site, e.g. /blog/; if unsure, leave this blank
+description: A Blog Largely About Things that I Don't Understand
 url: http://tbreijak.github.io # replace [username] with your github username (no brackets)
-github_username: github_tbreijak # replace with your github username
-twitter_username: twitter_tbreijak
+github_username: tbreijak # replace with your github username
+twitter_username: @tbreijak
 
 ########################## DO NOT EDIT BELOW HERE UNLESS YOU'RE STOKED TO HACK
 # Build settings
