@@ -1,5 +1,6 @@
 ########################### EDIT YOUR SETTINGS HERE
 # Site settings
+<<<<<<< HEAD
 
 title: "The ToddBlog" # give your site a title
 motto: "Hey, put that down, Brian!" # give your site a motto
@@ -7,8 +8,8 @@ email: ab6131@wayne.edu # put your email address in here; optional
 # edit your site description; keep it brief
 description: "A Blog Largely About Things that I Don't Understand"
 url: http://tbreijak.github.io # replace [username] with your github username (no brackets)
-github_username: tbreijak # replace with your github username
-twitter_username: @tbreijak
+github_username: github_tbreijak # replace with your github username
+twitter_username: twitter_tbreijak
 
 ########################## DO NOT EDIT BELOW HERE UNLESS YOU'RE STOKED TO HACK
 # Build settings
