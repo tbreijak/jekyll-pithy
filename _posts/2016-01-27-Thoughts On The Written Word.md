@@ -1,5 +1,5 @@
 ---
-title: Coding is Hard
+title: Thoughts on The Written Word
 layout: post
 ---
 
