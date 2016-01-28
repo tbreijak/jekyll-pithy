@@ -1,3 +1,8 @@
+---
+title: Coding is Hard
+layout: post
+---
+
 In his chapter "The Written Word: An Eye for an Ear," Marshall McLuhan argues that the invention of the Greek alphabet initiated the rise of "civilized" humanity. He sets up a binary of civilized/uncivilized, and suggests that cultures that use non-phonetic alphabets don't have access to the freedom that individuality affords the West. He claims that "only the phonetic alphabet makes such a sharp division in experience, giving to its user an eye for an ear, and freeing him from the tribal trance of resonating word magic and the web of kinship" (84).
 
 McLuhan also suggests that the phonetic alphabet has enabled the West to "master connected lineal sequences as pervasive forms of psychic and social organization," which lead to the creation of military industrial complexes (85). However, the "uncivilized" and/or tribal cultures that he points to specifically are India and China, and I think it goes without saying that both India and China are plenty industrialized. Did either of these countries just acquire a new means of communication?
