@@ -1,6 +1,8 @@
 ---
 title: Thoughts on The Written Word
 layout: post
+description: A Response to McLuhan
+categories: reading responses
 ---
 
 In his chapter "The Written Word: An Eye for an Ear," Marshall McLuhan argues that the invention of the Greek alphabet initiated the rise of "civilized" humanity. He sets up a binary of civilized/uncivilized, and suggests that cultures that use non-phonetic alphabets don't have access to the freedom that individuality affords the West. He claims that "only the phonetic alphabet makes such a sharp division in experience, giving to its user an eye for an ear, and freeing him from the tribal trance of resonating word magic and the web of kinship" (84).
