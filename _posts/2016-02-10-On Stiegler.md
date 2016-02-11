@@ -15,7 +15,7 @@ Regarding the “Passage from the genetic to the nongenetic” in two forms of e
 
 >The whole question is thinking the highly paradoxical possibility of such a relay or passage; this possibility is the unthinkable question of an absolute past, of an inconceivable present, which can only be an infinite abyss (138).
 
-In other words, Stiegler is saying (I think), that a genetic basis for defining the human falls apart in the context of Derridian *differénce. If what Ricoeur says is true, then, “genetic codes ‘are programs’ of behavior [that…] confer form, order, and direction on life” (138).
+In other words, Stiegler is saying (I think), that a genetic basis for defining the human falls apart in the context of Derridian *differénce*. If what Ricoeur says is true, then, “genetic codes ‘are programs’ of behavior [that…] confer form, order, and direction on life” (138).
 
 He is especially concerned with the “who,” “what” question: traditionally, humans have been seen as the “who” who do the inventing while technology has been the “what” that has been invented. Stiegler seems to suggest that possibly it is now the human who has been invented by the technology, saying:
 
