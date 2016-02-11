@@ -21,7 +21,7 @@ He is especially concerned with the “who,” “what” question: traditionall
 
 >The technical inventing the human, the human inventing the technical. Technics as inventive as well as invented. This hypothesis destroys the traditional thought of technics, from Plato to Heidegger and beyond. (137)
 
-. I have a sneaking suspicion that this is somehow deeply ingrained with the idea of the “posthuman.” 
+. I have a sneaking suspicion that this is somehow deeply intertwined with the idea of the “posthuman.” 
 
 I realize that this is a rather disorganized and rambling post, but I’m still trying to make heads or tails of what Stiegler is saying. I’m hoping that, after I read the Haraway, I’ll be better able to talk coherently about it.
 
