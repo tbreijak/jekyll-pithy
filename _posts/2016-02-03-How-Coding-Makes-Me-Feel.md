@@ -1,6 +1,6 @@
 ---
+Title: How Coding Makes Me Feel
 layout: post
-title: I Don't Understand.
 description: How Coding Makes Me Feel
 categories: coding responses
 ---
@@ -18,3 +18,9 @@ that moment has yet to come. This actually surprises me, since that is the way t
 I’m going to attend the early coding session tomorrow. I’ve completely screwed up my github desktop, and I want to clean up that mess. I’m hoping that if I can get organized and settle into a pattern then maybe things’ll get easier. It seems that every time I try to fix something, I make the entire environment worse. I have, though, taken what I think are pretty clear notes, but I consistently screw things up in spite of myself.
 
   Rereading this, a lot of it sounds like self-pity, and I hate that. I’m going to stop writing now because I think I’m starting to just embarrass myself.
+<<<<<<< HEAD:_posts/2016-02-03-How Coding Makes Me Feel
+=======
+
+
+
+>>>>>>> origin/master:_posts/2016-02-03-How-Coding-Makes-Me-Feel.md
