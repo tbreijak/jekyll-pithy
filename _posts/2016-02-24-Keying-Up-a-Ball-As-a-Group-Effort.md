@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Keying Up a Ball
+title: Keying Up a Ball As a Group Effort
 description: Coding Post
 categories: coding response
 ---
