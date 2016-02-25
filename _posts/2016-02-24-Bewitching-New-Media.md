@@ -4,7 +4,7 @@ title: The Bewitching Nature of Software
 description: Is new media addictive?
 categories: reading responses
 ---
-In 1980, a guy named George W. S. Trow, who I think was an editor at *The New Yorker*, published an article in *The New Yorker* called "Within the Context of No Context." In the article, he talks about television:
+In 1980, a guy named George W. S. Trow, who I think was an editor at *The New Yorker*, published an article in *The New Yorker* called "Within the Context of No Context." In the article, he talks about TV:
 
                                                   TELEVISION
 
