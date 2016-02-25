@@ -6,8 +6,9 @@ categories: reading responses
 ---
 In 1980, a guy named George W. S. Trow, who I think was an editor at *The New Yorker*, published an article in *The New Yorker* called "Within the Context of No Context." In the article, he talks about television:
 
->######TELEVISION
-Television has a scale. It has other properties, but what television has to a dominant degree is a certain scale and the power to enforce it. No one has been able to describe the scale as it is experienced. We know some of its properties, though.
+#####TELEVISION
+
+>Television has a scale. It has other properties, but what television has to a dominant degree is a certain scale and the power to enforce it. No one has been able to describe the scale as it is experienced. We know some of its properties, though.
 	Television does not vary. The trivial is raised up to power in it. The powerful is lowered toward the trivial.
 	The power behind it resembles the power of no-action, the powerful passive.
 	It is *bewitching*.
