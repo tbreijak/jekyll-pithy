@@ -13,7 +13,7 @@ In 1980, a guy named George W. S. Trow, who I think was an editor at *The New Yo
 	The power behind it resembles the power of no-action, the powerful passive.
 	It is *bewitching*.
 	It interferes with growth, conflict, and destruction, and these forces are different in its presence.
-	“Entertainment” is an unsatisfactory wordfor what it encloses or projects or makes possible.
+	“Entertainment” is an unsatisfactory word for what it encloses or projects or makes possible.
 	No good has come of it. (45)
 
 And later (and I realize this is a lot of quoting and a lot of reading that wasn’t assigned, but I think (maybe) that it’s important, and I promise that I’ll relate it to Chun eventually…
