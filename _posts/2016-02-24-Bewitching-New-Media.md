@@ -22,7 +22,7 @@ In 1980, a guy named George W. S. Trow, who I think was an editor at *The New Yo
 
 >No good has come of it. (45)
 
-And later (and I realize this is a lot of quoting and a lot of reading that wasn’t assigned, but I think (maybe) that it’s important, and I promise that I’ll relate it to Chun eventually…
+And later (and I realize this is a lot of quoting and a lot of reading that wasn’t assigned, but I think [maybe] that it’s important), I promise that I’ll relate it to Chun eventually…
 
 >What is it? It’s *television*. It’s a program *on* television. A little span of time. How does it work? It’s a little span of time made friendly by repetition. In a way, it doesn’t exist at all. Just what does, then? A certain ability to transmit and receive and then to apply layers of affection and longing and doubt. Two abilities: to do a very complex kind of work, involving electrons, and then to cover the coldness of that with a hateful familiarity. Why hateful? Because it hasn’t anything to do with a human being as a human being is strong. It has to do with a human being as a human being is weak and willing to be fooled: the human being’s eagerness to perceive as warm something that is cold, for instance; his eagerness to be a part of what one cannot be a part of, to love what cannot be loved” (59-60).
 
