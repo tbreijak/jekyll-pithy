@@ -14,7 +14,7 @@ In 1980, a guy named George W. S. Trow, who I think was an editor at *The New Yo
 
 >The power behind it resembles the power of no-action, the powerful passive.
 
->It is bewitching.
+>It is **bewitching**.
 
 >It interferes with growth, conflict, and destruction, and these forces are different in its presence.
 
