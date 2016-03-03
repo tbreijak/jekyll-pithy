@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 
-description: Is new media addictive?
+description: 
 categories: reading responses
 ---
 It seems like Haraway's master and servant metaphor still has some traction for many of us, and some people, including [Kelly](kellypolasek.github.io/) and [Hassan](hassana85.github.io/) are talking about Galloway in the context of control this week. I’m thinking along similar lines and, after reading [Noah’s](noahmcmlln.github.io/) comments about [Blas’s “Fag Face” mask]( vimeo.com/57882032), I’m thinking about intersections of power/control and anonymity in Galloway “Networks” chapter. Galloway informs us that:
