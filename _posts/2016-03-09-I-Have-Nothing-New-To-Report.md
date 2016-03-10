@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Working in Pairs
+title: I Have Nothing New to Report
 description: Coding Post
 categories: coding response
 ---
