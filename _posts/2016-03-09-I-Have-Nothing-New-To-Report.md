@@ -4,6 +4,7 @@ title: I Have Nothing New to Report
 description: Coding Post
 categories: coding response
 ---
+
 I’m not sure what use this post will be to anyone else, since I wasn’t in class last week and I don’t have much to say about the coding that went on. Like I said last week, I went to Monday’s “open coding” session and was lucky enough to participate in an improvised lesson with Adina in which Scott went over the lesson plan he had sketched out for Thursday. I was still behind on my dailies, but I tried to follow along and took some pictures of the sketches that he drew out on the whiteboard.
 
 I have spent most of this week mainlining Daniel Shiffman videos and, like Joe said last week, reviewing the videos is incredibly helpful. While I’m not really comfortable with new material as it’s presented, I’m increasingly confident with the things we were supposed to have learned weeks ago. I’m hoping this will help me going forward.
