@@ -4,7 +4,7 @@ title: Interaction in Journey
 description: Coding Post
 categories: coding response
 ---
-Since there was no coding last week, instead I’m going to talk about the games. Specifically *Journey*, since, in my probably dated and conservative idea of just what constitutes a “game,” *Journey* is probably the only one of the ones we played that fits my definition.
+Since there was no coding last week, instead I’m going to talk about the games. Specifically *Journey*, since, in my probably dated and conservative idea of just what constitutes a “game,” *Journey* is probably the only one of the ones we played that fits my definition. 
 I remember discussing in class last week the impersonality of *Journey*. I don’t remember who or in what context, but the idea was floated that *Journey* wasn’t really interactive—or, rather, our player wasn’t really interacting with the other players (the strangers we met on our “journey”)—because we were unable to speak and neither of us knew what the other was thinking or saying or doing. I wasn’t sure exactly what to make of that at the time. I played the game, if only for a few minutes. Still, I felt like I was communicating with the other player. Enough that I was talking to them. Which, don’t let me get grand with you, was weird.
 So then I watched the video for the [Kickstarter campaign](http://kickstarter.com/projects/40058920/journey-live/description) that [David](http://davidlnowak.github.io) posted to Slack. There’s a video on the page that features Austin Wintery, the game’s music composer, in which he comments on the “personal and varied experiences” that people have during game play. And then Melissa Snoza, of Fifth House Ensemble, articulates it even better:
 
