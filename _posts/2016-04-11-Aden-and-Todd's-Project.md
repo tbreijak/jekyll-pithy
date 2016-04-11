@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aden and Todd's MAkey Makey Project
+title: Aden and Todd's Makey Makey Project
 description: Coding Post
 categories: coding response
 ---
