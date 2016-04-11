@@ -24,6 +24,7 @@ We also wanted to show how the use of Makey Makey could translate to other progr
  
 ### Specifications:
 Materials:
+
 - Computer
 
 - Makey Makey
