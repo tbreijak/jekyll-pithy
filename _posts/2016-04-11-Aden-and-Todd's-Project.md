@@ -7,7 +7,9 @@ categories: coding response
 # Aden & Todd’s Makey Makey Project
 ### Goals:
 In creating our Makey Makey project, we had a number of goals. Our project comprised two major components:
+
 - Compression:
+
 We wanted to demonstrate dynamic range audio compression both visually and aurally. Dynamic range audio compression, as its name suggests, limits the dynamic range of an audio signal. It is typically used in the service of verisimilitude. By reducing the level of loud sounds while leaving quieter sounds unaffected, the compressor enforces a parity or consistency in the signal, making the sound range more consistent.
  
 Rather than compress audio files to increase verisimilitude, our aim instead was to *decrease* verisimilitude—to “break” the sound. We were inspired by Alvin Lucier’s *I Am Sitting in a Room*, in which the artist recorded himself speaking and then played the recording in a room, recording it again, and then repeating the procedure. After performing this playback and record procedure many times, Lucier’s voice becomes unintelligible and all that’s audible is the ambient sounds of the room itself. Like Lucier’s experiment with the limits of sound and meaning, we were interested in how far an audio file could be compressed before all that was intelligible was the sound of the code that comprised the file. We wanted to turn the sound inside out, so to speak.
@@ -23,9 +25,13 @@ We also wanted to show how the use of Makey Makey could translate to other progr
 ### Specifications:
 Materials:
 - Computer
+
 - Makey Makey
+
 - Play-Doh
+
 - 4 Bananas
+
 - Aluminum foil (optional)
  
 1. Set up a control file and a file to compress.
