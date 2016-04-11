@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interaction in Journey
+title: Aden and Todd's MAkey Makey Project
 description: Coding Post
 categories: coding response
 ---
