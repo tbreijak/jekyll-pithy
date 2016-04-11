@@ -5,7 +5,9 @@ description: Coding Post
 categories: coding response
 ---
 # Aden & Todd’s Makey Makey Project
+
 ### Goals:
+
 In creating our Makey Makey project, we had a number of goals. Our project comprised two major components:
 
 - Compression:
