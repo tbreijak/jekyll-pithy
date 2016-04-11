@@ -35,15 +35,18 @@ Materials:
 - Aluminum foil (optional)
  
 1. Set up a control file and a file to compress.
+
   1. Download and install an audio editing software program, such as WavePad or Audacity.
   2. Import a sound file to the editing software to serve as the “control” file.
   3. Import a copy of the sound file to another window of the editing software to use for compression.
   4. Find the software’s compressor or limiter function, commonly located in an “Effects” or “Levels” drop-down menu.
   5. Adjust the compression ratio, compression hardness, floor, gate, amplitude, and attack to your desired level of compression. Most audio editors include a “Preview” option so that you can hear the result of the compression before you apply it to your file.
+  
 2. Set up the Makey Makey.
+
   1. Use Arduino to reprogram your Makey Makey so that the “click” function on the Makey Makey board operates the “alt-tab” keyboard shortcut. (learn.sparkfun.com/tutorials/makey-makey-advanced-guide) 
-2. Form and arrange two discs of Play-Doh next to your computer keyboard.   
-3. Connect an alligator cable between the “SPACE” input on the Makey Makey and one Play-Doh disc.
+  2. Form and arrange two discs of Play-Doh next to your computer keyboard.   
+  3. Connect an alligator cable between the “SPACE” input on the Makey Makey and one Play-Doh disc.
   4. Connect an alligator cable between the “CLICK” input on the Makey Makey and the other Play-Doh disc.
   5. Arrange the bananas vertically next to the Play-Doh discs.
   6. Connect wires between the arrow inputs on the Makey Makey and the bananas.
