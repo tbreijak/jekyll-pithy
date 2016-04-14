@@ -10,3 +10,4 @@ Another obstacle is that I want to tie this all in with my concentration, which 
 As inept a programmer as I am, I was also thinking about maybe using P5.js in some way. I also don’t know what that would look like, either, especially in the face of early modern English communication. I suppose I should look into some history of the book stuff and maybe think about the transition from oral to print culture. But this is just me brainstorming in a blog posts.
 Anyway, if anyone has any suggestions, I’m all ears. I’m lookin’ at you Courtney and David.
 
+On an unrelated note, my links still won't work. I'm formatting the text the same way I did before, but for some reason, the path goes through my page and ends up at a "page does not exist." What am I doing wrong?
